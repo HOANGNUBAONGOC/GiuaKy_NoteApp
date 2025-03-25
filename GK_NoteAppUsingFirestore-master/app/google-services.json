@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "190725990668",
+    "firebase_url": "https://note-74cca-default-rtdb.firebaseio.com",
+    "project_id": "note-74cca",
+    "storage_bucket": "note-74cca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190725990668:android:dd17370b2c12578c690129",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFpN1Y8XTl-XEHt7ZYH3QT40kDNaMRiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190725990668:android:1346d3e433b2d782690129",
+        "android_client_info": {
+          "package_name": "com.example.noteappusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFpN1Y8XTl-XEHt7ZYH3QT40kDNaMRiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
